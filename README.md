@@ -1,6 +1,5 @@
 ## Bacon Ipsum Text Generator
-This is a test case for the mainly functions of a bacon ipsum text genetator website
-[BaconIpsum](https://baconipsum.com/)
+This is a test case for the mainly functions of a bacon ipsum text genetator website, [BaconIpsum](https://baconipsum.com/)
 
 ### REQUIREMENTS
 Para esse projeto será necessário:
